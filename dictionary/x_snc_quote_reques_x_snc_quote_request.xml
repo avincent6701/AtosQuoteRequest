@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Quote Request" max_length="40" name="x_snc_quote_reques_x_snc_quote_request" type="collection">
+    <element extends="task" label="Quote Request" max_length="40" name="x_snc_quote_reques_x_snc_quote_request" sizeclass="1" type="collection">
         <element label="Is this request for Bid Support" max_length="40" name="u_bid_support" type="boolean"/>
         <element label="Software" max_length="40" name="u_boolean_5" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="What type of purchase ?" max_length="40" name="u_choice_8" type="string">

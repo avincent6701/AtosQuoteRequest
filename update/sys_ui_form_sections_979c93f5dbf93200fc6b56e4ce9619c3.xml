@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="979c93f5dbf93200fc6b56e4ce9619c3" sys_domain="global" table="x_snc_quote_reques_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-30 08:25:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db9c93f5dbf93200fc6b56e4ce9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_quote_reques_item" name="x_snc_quote_reques_item" sys_domain="global" view="Default view">979c93f5dbf93200fc6b56e4ce9619c3</sys_ui_form>
+            <sys_ui_section caption="Item Information" display_value="Item Information" name="x_snc_quote_reques_item" sys_domain="global" view="Default view">eec48181db31f600fc6b56e4ce9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-30 08:25:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-30 08:25:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d79c93f5dbf93200fc6b56e4ce9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_quote_reques_item" name="x_snc_quote_reques_item" sys_domain="global" view="Default view">979c93f5dbf93200fc6b56e4ce9619c3</sys_ui_form>
+            <sys_ui_section caption="Financial Information" display_value="Financial Information" name="x_snc_quote_reques_item" sys_domain="global" view="Default view">579c93f5dbf93200fc6b56e4ce9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-30 08:25:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-30 08:39:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6cf1f39dbf93200fc6b56e4ce96194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_quote_reques_item" name="x_snc_quote_reques_item" sys_domain="global" view="Default view">979c93f5dbf93200fc6b56e4ce9619c3</sys_ui_form>
+            <sys_ui_section caption="Ship To Address" display_value="Ship To Address" name="x_snc_quote_reques_item" sys_domain="global" view="Default view">3ecf1f39dbf93200fc6b56e4ce96194c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-30 08:39:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_quote_reques_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-30 08:25:48</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>979c93f5dbf93200fc6b56e4ce9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_quote_reques_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Quote Request Management" source="x_snc_quote_reques">077c0032db65f200fc6b56e4ce961950</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Quote Request Management">077c0032db65f200fc6b56e4ce961950</sys_scope>
+            <sys_update_name>sys_ui_form_sections_979c93f5dbf93200fc6b56e4ce9619c3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-30 08:25:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

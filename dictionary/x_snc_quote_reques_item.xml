@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Item" max_length="40" name="x_snc_quote_reques_item" type="collection">
+        <element choice="2" label="Catalogue" max_length="32" name="cmdb_model" reference="cmdb_model" reference_qual="cmdb_model_categoryLIKEac050981db31f600fc6b56e4ce961913^EQ" reference_qual_condition="cmdb_model_categoryLIKEac050981db31f600fc6b56e4ce961913^EQ" type="reference">
+            <choice/>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Quote Number" max_length="32" name="quote_number" reference="x_snc_quote_reques_x_snc_quote_request" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="1024" label="Address" max_length="40" name="u_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Category" max_length="40" name="u_category" type="string"/>
+        <element label="Cost Center" max_length="32" name="u_cost_center" reference="cmn_cost_center" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="250" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Finance Type" max_length="40" name="u_finance_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="LIC #" max_length="40" name="u_lic" type="string"/>
+        <element label="Own Use" max_length="40" name="u_own_use" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="PO #" max_length="40" name="u_po_nb" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PO Number" max_length="40" name="u_po_number" type="string"/>
+        <element label="PO Renewal" max_length="40" name="u_po_renewal" type="boolean"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" default="0" label="Price" max_length="20" name="u_price" type="price"/>
+        <element label="Quantity" max_length="40" name="u_quantity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Service Order" max_length="40" name="u_serviceorder" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Name" max_length="40" name="u_string_19" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone Number" max_length="40" name="u_string_20" type="string"/>
+        <element calculation="current.u_total = current.u_price * current.u_quantity;&#13;&#10;" label="Total" max_length="15" name="u_total" read_only="true" type="decimal" virtual="true"/>
+        <element label="Vendor" max_length="32" name="u_vendor" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="WBS Element" max_length="40" name="u_wbs_element" type="string"/>
+        <index name="index">
+            <element name="cmdb_model"/>
+        </index>
+        <index name="index2">
+            <element name="quote_number"/>
+        </index>
+        <index name="index3">
+            <element name="u_vendor"/>
+        </index>
+        <index name="index4">
+            <element name="u_cost_center"/>
+        </index>
+    </element>
+</database>

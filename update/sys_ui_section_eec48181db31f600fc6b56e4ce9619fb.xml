@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Item Information" section_id="eec48181db31f600fc6b56e4ce9619fb" sys_domain="global" table="x_snc_quote_reques_item" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_model</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-30 08:32:09</sys_created_on>
+            <sys_id>941e1339dbf93200fc6b56e4ce961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item Information" display_value="Item Information" name="x_snc_quote_reques_item" sys_domain="global" view="Default view">eec48181db31f600fc6b56e4ce9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-30 08:32:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-30 08:32:09</sys_created_on>
+            <sys_id>181e1339dbf93200fc6b56e4ce961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item Information" display_value="Item Information" name="x_snc_quote_reques_item" sys_domain="global" view="Default view">eec48181db31f600fc6b56e4ce9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-30 08:32:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vendor</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-30 08:32:09</sys_created_on>
+            <sys_id>981e1339dbf93200fc6b56e4ce961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item Information" display_value="Item Information" name="x_snc_quote_reques_item" sys_domain="global" view="Default view">eec48181db31f600fc6b56e4ce9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-30 08:32:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_category</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-30 08:32:09</sys_created_on>
+            <sys_id>1c1e1339dbf93200fc6b56e4ce961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item Information" display_value="Item Information" name="x_snc_quote_reques_item" sys_domain="global" view="Default view">eec48181db31f600fc6b56e4ce9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-30 08:32:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-30 08:32:09</sys_created_on>
+            <sys_id>9c1e1339dbf93200fc6b56e4ce961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item Information" display_value="Item Information" name="x_snc_quote_reques_item" sys_domain="global" view="Default view">eec48181db31f600fc6b56e4ce9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-30 08:32:09</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quantity</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-30 08:32:09</sys_created_on>
+            <sys_id>101e1339dbf93200fc6b56e4ce961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item Information" display_value="Item Information" name="x_snc_quote_reques_item" sys_domain="global" view="Default view">eec48181db31f600fc6b56e4ce9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-30 08:32:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_price</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-30 08:32:09</sys_created_on>
+            <sys_id>901e1339dbf93200fc6b56e4ce961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item Information" display_value="Item Information" name="x_snc_quote_reques_item" sys_domain="global" view="Default view">eec48181db31f600fc6b56e4ce9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-30 08:32:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_total</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-30 08:32:09</sys_created_on>
+            <sys_id>141e1339dbf93200fc6b56e4ce961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item Information" display_value="Item Information" name="x_snc_quote_reques_item" sys_domain="global" view="Default view">eec48181db31f600fc6b56e4ce9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-30 08:32:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Item Information</caption>
+            <header>false</header>
+            <name>x_snc_quote_reques_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-27 13:27:02</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eec48181db31f600fc6b56e4ce9619fb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Item Information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Quote Request Management" source="x_snc_quote_reques">077c0032db65f200fc6b56e4ce961950</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Quote Request Management">077c0032db65f200fc6b56e4ce961950</sys_scope>
+            <sys_update_name>sys_ui_section_eec48181db31f600fc6b56e4ce9619fb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-30 08:25:48</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
